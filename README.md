@@ -32,7 +32,7 @@ Clone the repository and make the compiler executable:
 
     git clone https://github.com/seu-usuario/ahtml.git
     cd ahtml
-    chmod +x ahtml.js
+    chmod +x ahtml
 
 ### 2. Create your first Component
 **`components/button.ahtml`**
@@ -71,7 +71,7 @@ Clone the repository and make the compiler executable:
 ### 4. Compile
 Run the compiler targeting your main file:
 
-    ./ahtml.js compile index.ahtml
+    ./ahtml compile index.ahtml
 
 ---
 
