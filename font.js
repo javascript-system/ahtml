@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+//#!/usr/bin/env node
 //WARN: this is not the cmd file! is just a js code to the user to read how everything works! remember to use ./ahtml on your terminal
 
 const fs = require('fs');
