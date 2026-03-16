@@ -30,7 +30,7 @@ Think of it as the "TypeScript for HTML structure": the browser doesn't read it,
 ### 1. Installation
 Clone the repository and make the compiler executable:
 
-    git clone https://github.com/seu-usuario/ahtml.git
+    git clone https://github.com/javascript-system/ahtml.git
     cd ahtml
     chmod +x ahtml
 
