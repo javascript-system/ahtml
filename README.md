@@ -43,9 +43,11 @@ Clone the repository and make the compiler executable:
       "theme": "primary"
     <!/vars>
 
+    <!htmlContent>
     <button class="btn-<!string(theme)>">
       <!exports(label)>
     </button>
+    <!/htmlContent>
 ```
 ### 3. Create the Entry Point
 **`index.ahtml`**
